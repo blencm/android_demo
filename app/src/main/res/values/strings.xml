@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Demo Bleker</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">Titulo</string>
+    <string name="content">Contenido</string>
+    <string name="name">Nombre</string>
+    <string name="comment">Comentario</string>
+    <string name="comments">Comentarios</string>
+
+    <string name="posts">Publicaciones</string>
+    <string name="post">Publicación</string>
+    <string name="image">Imagen</string>
+</resources>
